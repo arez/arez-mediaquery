@@ -1,6 +1,7 @@
 # Change Log
 
-### Unreleased
+### [v0.12](https://github.com/arez/arez-mediaquery/tree/v0.12) (2018-12-11)
+[Full Changelog](https://github.com/arez/arez-mediaquery/compare/v0.11...v0.12)
 
 * Update the 'org.realityforge.arez' dependencies to version '0.121'
 * Remove deployment from TravisCI infrastructure as it is no longer feasible.
