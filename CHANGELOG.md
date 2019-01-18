@@ -2,6 +2,8 @@
 
 ### Unreleased
 
+* Update the 'org.realityforge.arez' dependencies to version '0.124'
+
 ### [v0.14](https://github.com/arez/arez-mediaquery/tree/v0.14) (2019-01-17)
 [Full Changelog](https://github.com/arez/arez-mediaquery/compare/v0.13...v0.14)
 
