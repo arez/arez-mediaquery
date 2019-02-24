@@ -1,6 +1,7 @@
 # Change Log
 
-### Unreleased
+### [v0.22](https://github.com/arez/arez-mediaquery/tree/v0.22) (2019-02-24)
+[Full Changelog](https://github.com/arez/arez-mediaquery/compare/v0.21...v0.22)
 
 * Update the 'org.realityforge.arez' dependencies to version '0.131'
 * Upgrade the `org.realityforge.com.google.jsinterop` artifact to version `1.0.0-b2-e6d791f`.
