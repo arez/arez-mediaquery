@@ -1,3 +1,8 @@
+# Deprecated
+
+<p align="center">Project has been merged into <a href="http://travis-ci.org/arez/arez-dom"><code>arez-dom</code></a></p>
+
+---
 # Arez-MediaQuery
 
 [![Build Status](https://secure.travis-ci.org/arez/arez-mediaquery.svg?branch=master)](http://travis-ci.org/arez/arez-mediaquery)
